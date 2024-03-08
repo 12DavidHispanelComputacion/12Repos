@@ -22,5 +22,5 @@ public class Tarea {
             }else{
                 System.out.println("No es un numero par.");
             }       }
-}
+    }
 }
